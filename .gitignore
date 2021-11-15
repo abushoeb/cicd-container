@@ -1,1 +1,4 @@
 /node_modules
+
+# jupyter files
+.ipynb_checkpoints
